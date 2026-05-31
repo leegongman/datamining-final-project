@@ -1,0 +1,21 @@
+# 대용량 / 원천 데이터 — 출처는 README 참고 (GitHub 100MB 제한)
+*.csv
+*.zip
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# 발표 / 문서 산출물
+*.pptx
+*.pdf
+~$*
+
+# 시스템 · 캐시
+.DS_Store
+.ipynb_checkpoints/
+.pydeps/
+.matplotlib_cache/
+__pycache__/
